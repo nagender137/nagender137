@@ -1,4 +1,4 @@
-[![ Masterhead ](https://www.japan-build.jp/content/dam/sitebuilder/rxjp/japan-build/images/en/about/hero_img/02_sbd.jpg/_jcr_content/renditions/original.image_file.1279.400.file/02_sbd.jpg)
+![ Masterhead ](https://www.japan-build.jp/content/dam/sitebuilder/rxjp/japan-build/images/en/about/hero_img/02_sbd.jpg/_jcr_content/renditions/original.image_file.1279.400.file/02_sbd.jpg)
 <h1 align="center">Hi 👋, I'm Nagender singh yadav</h1>
 <h3 align="center">A passionate Resurcher and Electronics Engineering from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
