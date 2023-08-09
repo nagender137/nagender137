@@ -1,7 +1,6 @@
-! [ logo ] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.uxdesign.cc%2Fhow-to-use-ai-as-a-ux-designer-to-learn-programming-6668bac31d79&psig=AOvVaw1SCbKi1sf1ZW2xCTPUH5pQ&ust=1691511430124000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwil5tag-cqAAxXXZ2wGHaCbDxsQjRx6BAgAEAw)
 <h1 align="center">Hi 👋, I'm Nagender singh yadav</h1>
 <h3 align="center">A passionate Resurcher and Electronics Engineering from India</h3>
-<img align="right" alt="coding" width="400" src"https://images.app.goo.gl/Gr92jzcoMBPEaAtd7">
+<img align="right" alt="coding" width="400" src="https://www.iihglobal.com/wp-content/uploads/2019/02/dcsad-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagender137&label=Profile%20views&color=0e75b6&style=flat" alt="nagender137" /> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/n40118406?t=0clcmh10tzb2m6gzn3winw&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/n40118406?t=0clcmh10tzb2m6gzn3winw&s=08?logo=twitter&style=for-the-badge" alt="https://twitter.com/n40118406?t=0clcmh10tzb2m6gzn3winw&s=08" /></a> </p>
