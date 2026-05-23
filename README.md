@@ -16,9 +16,9 @@
 
 > *"I don't just simulate devices — I fabricate them."*
 
-I am a final-year **B.Tech Electronics & Communication Engineering** student from Bundelkhand University, deeply passionate about **semiconductor research, MEMS fabrication, and next-generation sensing devices**. My work sits at the intersection of hands-on cleanroom fabrication and advanced device simulation — and I am committed to contributing to **India's semiconductor sovereignty**.
+I have completed my **B.Tech in Electronics & Communication Engineering** from Bundelkhand University (CGPA: **7.79**, 2026), deeply passionate about **semiconductor research, MEMS fabrication, and next-generation sensing devices**. My work sits at the intersection of hands-on cleanroom fabrication and advanced device simulation — committed to contributing to **India's semiconductor sovereignty**.
 
-Currently a **Research Intern at IIT Hyderabad** (under Prof. Shubhadeep Bhattacharjee), working on semiconductor and 2D material research.
+Currently a **Research Intern at IIT Hyderabad** (under Prof. Shubhadeep Bhattacharjee), working on semiconductor and 2D material research. PhD applicant at **IIT Delhi** in the Devices domain.
 
 ---
 
@@ -84,13 +84,13 @@ Device Characterization    █████████████████�
 ## 📌 Key Projects
 
 ### 🔧 MEMS Cantilever Fabrication — IIT Roorkee
-> Fabricated **10+ MEMS cantilever devices** using RCA cleaning, pyrogenic oxidation, photolithography, and oxide etching. Achieved **95% accuracy** in device performance metrics using SEM and Laser Doppler Vibrometry (LDV).
+> Fabricated **10+ MEMS cantilever devices** using RCA cleaning, pyrogenic oxidation, photolithography, and oxide etching. Achieved **95% accuracy** in device performance metrics using SEM and LDV.
 
 ### 🏗️ Si₃N₄ MEMS Cantilever — NTHU Taiwan *(SPARC Indo-Taiwan Program)*
-> Fabricated free-standing Si₃N₄ MEMS cantilever beams via PVD deposition, photolithography, nitride dry etching, and isotropic silicon release etching on **4-inch silicon wafers** in an international cleanroom.
+> Fabricated free-standing Si₃N₄ MEMS cantilever beams via PVD deposition, photolithography, nitride dry etching, and isotropic silicon release etching on **4-inch silicon wafers**.
 
 ### 💻 Sentaurus TCAD — 2D/3D Device Simulation
-> End-to-end 2D process simulation & 3D device simulation for **MOSFETs, BJTs, and Diodes** — parameter extraction and electrical characterization under the India Semiconductor Workforce Development Program.
+> End-to-end 2D process & 3D device simulation for **MOSFETs, BJTs, and Diodes** — parameter extraction and electrical characterization under India Semiconductor Workforce Development Program.
 
 ### ⚡ CMOS / FinFET / Planar FET Simulation
 > Designed and tested **14nm gate oxide CMOS and Planar FET** structures using SEMulator3D, including full virtual fab flow — RCA cleaning, oxidation, lithography, and ALD.
