@@ -1,6 +1,6 @@
-<div align="center">
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nagender%20Singh%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Semiconductor%20Researcher%20%7C%20MEMS%20%7C%20Device%20Fabrication&descAlignY=58&descColor=a0c4ff)
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=nagender137&label=Profile%20views&color=0e75b6&style=flat" alt="nagender137" />
 &nbsp;
@@ -99,6 +99,24 @@ Device Characterization    █████████████████�
 - 🎓 **Semiconductor Fabrication 101** — Purdue University × UT Austin × Intel Corporation (Jan 2025)
 - 🎓 **CeNSE Summer School 2025** — Certificate of Distinction | IISc Bangalore
 - 🎓 **SPARC Indo-Taiwan/US Workshop** — IIT Hyderabad (Dec 2025)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Nagender's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nagender137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nagender137&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nagender137&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
