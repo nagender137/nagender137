@@ -4,9 +4,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=nagender137&label=Profile%20views&color=0e75b6&style=flat" alt="nagender137" />
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagender-singh-yadav-666802250)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its.nagender?igsh=c2o5MWptNHM2YWZo)
 
 </div>
 
@@ -38,7 +35,7 @@ Device Characterization    █████████████████�
 
 | Institution | Role | Focus |
 |---|---|---|
-| 🇮🇳 **IIT Hyderabad** | Research Intern (Feb 2025 – Present) | Semiconductor & 2D Material Research |
+| 🇮🇳 **IIT Hyderabad** | Research Intern (Feb 2026 – 30 May) | Semiconductor & 2D Material Research |
 | 🇹🇼 **NTHU Taiwan** | Student Trainee (Mar 2026) | 8-step Fab Flow, Si₃N₄ MEMS Cantilever |
 | 🇮🇳 **CeNSE, IISc Bangalore** | Advanced Training (Nov 2025) | Photovoltaic Cell Fabrication |
 | 🇮🇳 **CeNSE, IISc Bangalore** | Hands-on Training (Nov–Dec 2024) | CMOS, SEM, FIB, AFM, FTIR, TEM |
