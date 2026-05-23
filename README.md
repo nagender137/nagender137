@@ -18,7 +18,7 @@
 
 I am a final-year **B.Tech Electronics & Communication Engineering** student from Bundelkhand University, deeply passionate about **semiconductor research, MEMS fabrication, and next-generation sensing devices**. My work sits at the intersection of hands-on cleanroom fabrication and advanced device simulation — and I am committed to contributing to **India's semiconductor sovereignty**.
 
-Currently a **Research Intern at IIT Hyderabad** (under Prof. Shubhadeep Bhattacharjee), working on semiconductor and 2D material research. PhD applicant at **IIT Delhi** in the Devices domain.
+Currently a **Research Intern at IIT Hyderabad** (under Prof. Shubhadeep Bhattacharjee), working on semiconductor and 2D material research.
 
 ---
 
