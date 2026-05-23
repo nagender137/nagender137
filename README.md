@@ -7,10 +7,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagender-singh-yadav-666802250)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/its.nagender?igsh=c2o5MWptNHM2YWZo)
-&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/n40118406)
-&nbsp;
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@indianbigresearcher7222)
 
 </div>
 
@@ -114,10 +110,6 @@ Device Characterization    █████████████████�
 <p align="left">
 <a href="https://www.linkedin.com/in/nagender-singh-yadav-666802250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.instagram.com/its.nagender?igsh=c2o5MWptNHM2YWZo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/n40118406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://youtube.com/@indianbigresearcher7222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21691577/nagender-singh-yadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/n6804719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
 </p>
 
 📧 **singhyadavnag80@gmail.com** &nbsp;|&nbsp; 📱 **+91-8707478638**
