@@ -179,24 +179,6 @@ Designed and tested **14nm gate oxide CMOS and Planar FET** structures using SEM
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nagender137&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0f2027&title_color=a0c4ff&icon_color=a0c4ff&text_color=ffffff" height="170" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagender137&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=a0c4ff&text_color=ffffff" height="170" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagender137&theme=tokyonight&hide_border=true&background=0f2027&ring=a0c4ff&fire=a0c4ff&currStreakLabel=a0c4ff" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
