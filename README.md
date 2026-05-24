@@ -27,8 +27,8 @@ Currently a **Research Intern at IIT Hyderabad** (under Prof. Shubhadeep Bhattac
 ## 🔬 What I Do
 
 ```text
-Semiconductor Fabrication  ████████████████████  Expert        100%
-Device Characterization    ████████████████████  Expert        100%
+Semiconductor Fabrication  ███████████████████░  Expert         95%
+Device Characterization    ██████████████████░░  Expert         85%
 MEMS Device Design         ████████████████░░░░  Advanced       80%
 TCAD Simulation            ███████████████░░░░░  Advanced       75%
 2D Materials Research      ████████████░░░░░░░░  Intermediate   60%
