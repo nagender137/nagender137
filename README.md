@@ -172,7 +172,7 @@ Designed and tested **14nm gate oxide CMOS and Planar FET** structures using SEM
 ---
 
 ## 📜 Certifications
-
+- 🎓 **CeNSE Advance Semiconductor traning Program 2024-25** — Certificate of IISc Bangalore
 - 🎓 **Semiconductor Fabrication 101** — Purdue University × UT Austin × Intel Corporation (Jan 2025)
 - 🎓 **CeNSE Summer School 2025** — Certificate of Distinction | IISc Bangalore
 - 🎓 **SPARC Indo-Taiwan/US Workshop** — IIT Hyderabad (Dec 2025)
