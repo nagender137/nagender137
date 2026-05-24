@@ -20,7 +20,7 @@
 
 I have completed my **B.Tech in Electronics & Communication Engineering** from Bundelkhand University (CGPA: **7.79**, 2026), deeply passionate about **semiconductor research, MEMS fabrication, and next-generation sensing devices**. My work sits at the intersection of hands-on cleanroom fabrication and advanced device simulation — committed to contributing to **India's semiconductor sovereignty**.
 
-Currently a **Research Intern at IIT Hyderabad** (under Prof. Shubhadeep Bhattacharjee), working on semiconductor and 2D material research.
+Currently a **Research Intern at IIT Hyderabad** (under Prof. Shubhadeep Bhattacharjee), working on semiconductor and 2D material MOS2.
 
 ---
 
