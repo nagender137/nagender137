@@ -47,7 +47,7 @@ TCAD Simulation            ███████████████░░�
 | Nov 2025 | 🇮🇳 **CeNSE, IISc Bangalore** | Advanced Training | Photovoltaic Cell Fabrication |
 | Nov – Dec 2024 | 🇮🇳 **CeNSE, IISc Bangalore** | Hands-on Training | CMOS · SEM · FIB · AFM · FTIR · TEM |
 | Jul – Aug 2024 | 🇮🇳 **IIT Roorkee** | Student | MEMS Cantilever Fabrication & Characterization |
-| Feb 2024 | 🇮🇳 **IIT Roorkee** | Student | MOSFET Design using Cadence |
+| Feb 2024 | 🇮🇳 **IIT Roorkee** | Student | MOSFET Design using Cadence 180 node |
 
 </div>
 
